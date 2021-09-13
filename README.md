@@ -1,4 +1,4 @@
 - 🐭 Android at Disney Streaming
 - 🏙️ New York City
 - 👊 Kombat Guide on [Android](https://play.google.com/store/apps/details?id=com.kombatguide.greeninjalabs.kombat_guide&hl=en) and [iOS](https://apps.apple.com/us/app/kombat-guide/id1473898049)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/taylor-case/)
+- 🔗 [linkedIn](https://www.linkedin.com/in/taylor-case/)
